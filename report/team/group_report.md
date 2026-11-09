@@ -21,23 +21,21 @@
 | 1 | Võ Thị Kim Huyền | Khi buổi sáng đi học từ 9h, tôi muốn nhớ và viết standup (hôm qua / hôm nay / vướng mắc) để gửi Phoenix trước 10h không trễ. | tôi học viên Chương trình AI thực chiến VinUni | Bước nhớ lại + viết đủ 3 phần (ước lượng 12–18 phút/lần, cần bấm giờ) |Nếu hôm trước có nhiều nội dung học, bạn có nhớ hết những gì đã làm để viết Standup không?(Duyên) |
 | 2 | Võ Thị Kim Huyền | Khi có buổi lec mới (~60 trang slide), tôi muốn xem trước và liệt kê ý chính để hôm sau theo giảng viên dễ hơn. | Học viên (tự học trước từ slide) | Đọc slide + liệt kê ý chính (~45–60 phút/tối) |Nếu không xem trước thì việc theo bài trên lớp khó đến mức nào? Mất 45–60 phút mỗi tối là vì slide dài, hay vì không biết phần nào là trọng tâm ? (Huân)|
 | 3 | Võ Thị Kim Huyền | Khi họp nhóm build phase, tôi đã share tài liệu tham khảo nhưng member không xem trước nên không bám topic -> team phải review lại. | Thành viên nhóm (tôi người share tài liệu + team 4 người) | Giải thích lại context/topic trong họp (~20 phút/lần) | Ai mới là actor chịu pain: người share tài liệu, hay 4 thành viên không đọc? (Huân) |
-| 4 | Nguyễn Thị Duyên |  Khi nhận yêu cầu thực hiện một bài LAB nhóm 3-4 người, tôi muốn xác định rõ các nhiệm vụ, vai trò của mỗi người và tiêu chí hoàn thành, để biết mình cần lập nhóm, bầu nhóm trưởng và nhóm trưởng cần điều phối những công việc nào. | team, tôi | 10 phút đọc yêu cầu lab + phân chia từng thành viên trong nhóm làm gì.  | Lần gần nhất chốt task lab mất bao nhiêu phút, bằng chứng ở đâu? (Huyền) |
-| 5 | Nguyễn Thị Duyên | Khi bắt đầu một buổi LAB trên github, tôi muốn xem các thông tin trong file README, RULES, RUBRIC, để không bỏ sót yêu cầu và hoàn thành trước hạn| Tôi |Thời gian mỗi buổi từ 15-20 phút để đọc hướng dẫn trong mỗi buổi LAB.|  Nếu có nhiều file hướng dẫn khác nhau, làm sao bạn biết mình đã đọc đủ và không bỏ sót yêu cầu quan trọng? (Huy)
-| 6 | Nguyễn Thị Duyên | Khi làm bài tập nhóm trong buổi LAB, tôi muốn các thành viên thường xuyên cập nhật tiến độ và những khó khăn đang gặp phải, để nhóm có thể hỗ trợ, trao đổi và hoàn thành công việc đúng thời hạn. | cả team | 2 giờ/buổi LAB để trao đổi, hỏi tiến độ và tổng hợp kết quả.| Khi thành viên không cập nhật, lý do là họ quên, ngại nói ra khó khăn, hay không biết nên cập nhật gì và lúc nào? Đã có trường hợp nào một thành viên bị kẹt mà nhóm không biết, cho tới gần deadline mới phát hiện chưa? (Huân) |
+| 4 | Nguyễn Thị Duyên | Khi kết thúc một buổi họp build plase, tôi muốn tổng hợp danh sách công việc và người phụ trách từng nhiệm vụ, để không ai bỏ sót công việc. | tôi, team | 1h/ buổi viết lại ghi chú| Nếu ghi chú lại ngay trong cuộc họp thì tại sao bạn vẫn mất đến 1 giờ để tổng hợp công việc và người phụ trách sau cuộc họp? (Huyền) |
+| 5 | Nguyễn Thị Duyên |Khi bắt đầu một buổi LAB trên github, tôi muốn xem các thông tin trong file README, RULES, RUBRIC,SUBMISSION, để không bỏ sót yêu cầu và hoàn thành trước hạn| tôi |Thời gian mỗi buổi từ 20 phút để đọc hướng dẫn trong mỗi buổi LAB. |  Nếu có nhiều file hướng dẫn khác nhau, làm sao bạn biết mình đã đọc đủ và không bỏ sót yêu cầu quan trọng? (Huyền)
+| 6 | Nguyễn Thị Duyên | KKhi làm bài tập nhóm trong buổi LAB, tôi muốn các thành viên thường xuyên cập nhật tiến độ và những khó khăn đang gặp phải, để nhóm có thể hỗ trợ, trao đổi và hoàn thành công việc đúng thời hạn. | cả team | 2 giờ/buổi LAB để trao đổi, hỏi tiến độ và tổng hợp kết quả.| Khi thành viên không cập nhật, lý do là họ quên, ngại nói ra khó khăn, hay không biết nên cập nhật gì và lúc nào? Đã có trường hợp nào một thành viên bị kẹt mà nhóm không biết, cho tới gần deadline mới phát hiện chưa? (Huân) |
 | 7 | Nguyễn Đức Huân | Khi kết thúc mỗi ngày học, tôi muốn nắm đủ deadline, lịch học và các thay đổi mới của tất cả các môn từ email, LMS, MS Teams, để làm đúng hạn và không bỏ sót cập nhật sau từng buổi học | Sinh viên học 6 môn/kỳ | Mở và đối chiếu 3–4 nguồn tin mỗi ngày, 5–10 phút/ngày (≈ 35–70 phút/tuần); đã nộp muộn 1 báo cáo vì sót deadline |7. Lần trễ deadline cụ thể? Đã bấm giờ mở 3 nguồn chưa? (Huyền) |
 | 8 | Nguyễn Đức Huân | Khi xem báo cáo tiến độ của nhiều nhóm, GV muốn thấy ngay điểm khác so với tuần trước và chỗ đang vướng, để góp ý đúng trọng tâm | GVHD phụ trách 10 nhóm, các nhóm sinh viên | GV mất hơn 5 phút đầu mỗi nhóm (trong 10–15 phút) chỉ để hỏi lại "tuần này làm được gì" | Làm sao GV xác định được nhóm nào thực sự gặp khó khăn nếu chỉ dựa vào báo cáo tiến độ?(Duyên)|
 | 9 | Nguyễn Đức Huân | Khi sắp lịch họp nhóm, tôi muốn tìm khung giờ trống chung của 4–5 người có lịch khác nhau, để cả nhóm cùng tham gia | Người điều phối nhóm 4–5 sinh viên | Đối chiếu lịch trống qua ≥ 50 tin nhắn mỗi lần chốt; đã 2 lần phải lùi lịch |Nếu một thành viên liên tục bận vào các khung giờ chung, nhóm sẽ xử lý như thế nào?(Duyên) |
-| 10 | | | | | |
-| 11 | | | | | |
-| 12 | | | | | |
+
 
 ### 2.2. Cluster
 
 | Cluster | Các candidate | Pattern chung |
 | :------ | :------------ | :------------ |
-| A. Quản lý thông tin và kiến thức học tập | 2. Xem trước slide và liệt kê ý chính. <br> 5. Đọc README, RULES, RUBRIC.<br> 7. Tổng hợp deadline, lịch học và thông báo từ nhiều nguồn. | Phải tìm kiếm, đọc và tổng hợp thông tin từ nhiều tài liệu hoặc nền tảng, dễ mất thời gian và bỏ sót thông tin quan trọng. |
-| B. Phối hợp và quản lý công việc nhóm| 3. Thành viên không đọc tài liệu tham khảo trước buổi họp. <br> 4. Xác định nhiệm vụ, vai trò và tiêu chí hoàn thành LAB nhóm. <br>  9. Tìm khung giờ họp chung cho các thành viên. | Khó khăn trong việc thống nhất thông tin, phân công, trao đổi và phối hợp giữa các thành viên để hoàn thành công việc đúng hạn. |
-| C. Theo dõi và duy trì tiến độ| 1. Nhớ và viết Daily Standup trước 10h. <br> 6. Thành viên cập nhật tiến độ và khó khăn. <br> 8. Giảng viên xem báo cáo tiến độ của nhiều nhóm và xác định điểm khác biệt so với tuần trước. | Người thực hiện cần ghi nhận, theo dõi và báo cáo tiến độ thường xuyên. Việc tổng hợp thông tin chưa nhanh khiến người học hoặc người hướng dẫn mất thời gian và khó nhận diện vấn đề kịp thời. |
+| A. Quản lý thông tin học tập | 2. Xem trước slide và liệt kê ý chính. <br> 5. Đọc hướng dẫn LAB.<br> 7. Tổng hợp deadline và lịch học. | Tốn thời gian tìm kiếm, đọc và tổng hợp thông tin từ nhiều nguồn. |
+| B. Phối hợp và quản lý công việc nhóm| 3. Thành viên không đọc tài liệu trước buổi họp. <br> 4. Tổng hợp công việc sau họp <br>  9. Sắp xếp lịch họp nhóm. | Khó khăn trong trao đổi, phân công và phối hợp công việc giữa các thành viên. |
+| C. Theo dõi và duy trì tiến độ| 1. Viết Daily Standup. <br> 6. Cập nhật tiến độ nhóm. <br> 8. GV xem báo cáo tiến độ nhiều nhóm | Mất thời gian ghi nhận, tổng hợp và đánh giá tiến độ công việc. |
 
 ### 2.3. Opportunity Solution Tree rút gọn
 
@@ -50,19 +48,24 @@ Opportunity B: Khó khăn trong việc phối hợp và thống nhất công vi�
 Opportunity C: Khó khăn trong việc theo dõi và đánh giá tiến độ. Người học và người hướng dẫn phải thường xuyên ghi nhận, tổng hợp báo cáo tiến độ nhưng khó nhận biết kịp thời những vấn đề đang phát sinh.
 ```
 
-Những ý đã gạch bỏ vì là solution đội lốt opportunity: 
+Những ý đã gạch bỏ vì là solution đội lốt opportunity: không có
 
-- Tạo nhóm chat trên Zalo để trao đổi công việc và cập nhật tiến độ.
+
 
 
 ### 2.4. Chấm điểm shortlist (1–5)
 
 | Candidate | Actor rõ | Quy trình rõ | Pain có bằng chứng | Impact đo được | Vừa sức lab | So sánh được No AI/Rule/Workflow/Agent | Nhóm hiểu domain | Tổng |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| A. Quản lý thông tin và kiến thức học tập | 5 | 4 | 4 | 4 | 4 | 5 | 5 | 31 |
-| B. Phối hợp và quản lý công việc nhóm | 5 | 5 | 4 | 4 | 5 | 5 | 5 | 33 |
-| C. Theo dõi và duy trì tiến độ | 4 | 4 | 4 | 4 | 4 | 5 | 4 | 29 |
-
+| 1 - Viết Daily Standup | 5 | 4 | 3 | 4 | 5 | 5 | 5 | **31** |
+| 2 - Xem trước slide và liệt kê ý chính | 5 | 5 | 5 | 3 | 4 | 4 | 5 | **31** |
+| 3 -  Thành viên không đọc tài liệu trước buổi họp | 5 | 5 | 4 | 4 | 5 | 4 | 5 | **32** |
+| 4 – Tổng hợp công việc sau họp | 4 | 3 | 2 | 3 | 5 | 4 | 5 | **26** |
+| 5 – Đọc hướng dẫn LAB GitHub | 5 | 5 | 2 | 2 | 5 | 5 | 5 | **29** |
+| 6 – Cập nhật tiến độ nhóm | 3 | 3 | 2 | 4 | 3 | 4 | 5 | **24** |
+| 7 - Tổng hợp deadline và lịch học. | 5        | 4            | 3                  | 4              | 5           | 5                  | 5                | 31   |
+| 8 -  GV xem báo cáo tiến độ nhiều nhóm   | 3        | 3            | 2                  | 4              | 3           | 4                  | 3                | 22   |
+| 9 - Sắp xếp lịch họp nhóm.     | 5        | 4            | 4                  | 4              | 5           | 3                  | 5                | 30   |
 **Candidate được chọn:**
 
 Cluster B – Phối hợp và quản lý công việc nhóm.
