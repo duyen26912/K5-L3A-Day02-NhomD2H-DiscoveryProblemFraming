@@ -208,4 +208,6 @@ Nhóm đang đi sâu daily standup Phoenix trước 10h: học viên nhớ việ
 
 ## 7. Tài liệu tham khảo
 
--
+- Rob Fitzpatrick, The Mom Test, hỏi việc đã xảy ra, không hỏi "bạn có muốn dùng không": https://www.momtestbook.com/
+- Teresa Torres, Opportunity Solution Tree, tách pain và giải pháp: https://www.producttalk.org/opportunity-solution-trees/
+- Anthropic, Building Effective Agents, vì sao thử Rule trước Workflow: https://www.anthropic.com/research/building-effective-agents
