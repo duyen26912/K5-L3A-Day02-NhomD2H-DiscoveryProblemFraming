@@ -5,7 +5,7 @@
 
 ## 1. Thông tin nhóm
 
-- Tên nhóm:
+- Tên nhóm: D2H
 - Thành viên: xem `TEAM.md`
 - Candidate problem được chọn (1 câu):
 - Quyết định cuối: Go / Not Yet / No-Go
@@ -18,15 +18,15 @@
 
 | # | Người đưa ra | Candidate (Job Story ngắn) | Actor | Bottleneck | Câu hỏi phản biện nhận được (ai hỏi) |
 |---:|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
-| 6 | | | | | |
-| 7 | | | | | |
-| 8 | | | | | |
-| 9 | | | | | |
+| 1 | Võ Thị Kim Huyền | Khi buổi sáng đi học từ 9h, tôi muốn nhớ và viết standup (hôm qua / hôm nay / vướng mắc) để gửi Phoenix trước 10h không trễ. | tôi học viên Chương trình AI thực chiến VinUni | Bước nhớ lại + viết đủ 3 phần (ước lượng 12–18 phút/lần, cần bấm giờ) |Nếu hôm trước có nhiều nội dung học, bạn có nhớ hết những gì đã làm để viết Standup không?(Duyên) |
+| 2 | Võ Thị Kim Huyền | Khi có buổi lec mới (~60 trang slide), tôi muốn xem trước và liệt kê ý chính để hôm sau theo giảng viên dễ hơn. | Học viên (tự học trước từ slide) | Đọc slide + liệt kê ý chính (~45–60 phút/tối) |Nếu không xem trước thì việc theo bài trên lớp khó đến mức nào? Mất 45–60 phút mỗi tối là vì slide dài, hay vì không biết phần nào là trọng tâm ? (Huân)|
+| 3 | Võ Thị Kim Huyền | Khi họp nhóm build phase, tôi đã share tài liệu tham khảo nhưng member không xem trước nên không bám topic -> team phải review lại. | Thành viên nhóm (tôi người share tài liệu + team 4 người) | Giải thích lại context/topic trong họp (~20 phút/lần) | Ai mới là actor chịu pain: người share tài liệu, hay 4 thành viên không đọc? (Huân) |
+| 4 | Nguyễn Thị Duyên |  Khi nhận yêu cầu thực hiện một bài LAB nhóm 3-4 người, tôi muốn xác định rõ các nhiệm vụ, vai trò của mỗi người và tiêu chí hoàn thành, để biết mình cần lập nhóm, bầu nhóm trưởng và nhóm trưởng cần điều phối những công việc nào. | team, tôi | 10 phút đọc yêu cầu lab + phân chia từng thành viên trong nhóm làm gì.  | Lần gần nhất chốt task lab mất bao nhiêu phút, bằng chứng ở đâu? (Huyền) |
+| 5 | Nguyễn Thị Duyên | Khi bắt đầu một buổi LAB trên github, tôi muốn xem các thông tin trong file README, RULES, RUBRIC, để không bỏ sót yêu cầu và hoàn thành trước hạn| Tôi |Thời gian mỗi buổi từ 15-20 phút để đọc hướng dẫn trong mỗi buổi LAB.|  Nếu có nhiều file hướng dẫn khác nhau, làm sao bạn biết mình đã đọc đủ và không bỏ sót yêu cầu quan trọng? (Huy)
+| 6 | Nguyễn Thị Duyên | Khi làm bài tập nhóm trong buổi LAB, tôi muốn các thành viên thường xuyên cập nhật tiến độ và những khó khăn đang gặp phải, để nhóm có thể hỗ trợ, trao đổi và hoàn thành công việc đúng thời hạn. | cả team | 2 giờ/buổi LAB để trao đổi, hỏi tiến độ và tổng hợp kết quả.| Khi thành viên không cập nhật, lý do là họ quên, ngại nói ra khó khăn, hay không biết nên cập nhật gì và lúc nào? Đã có trường hợp nào một thành viên bị kẹt mà nhóm không biết, cho tới gần deadline mới phát hiện chưa? (Huân) |
+| 7 | Nguyễn Đức Huân | Khi kết thúc mỗi ngày học, tôi muốn nắm đủ deadline, lịch học và các thay đổi mới của tất cả các môn từ email, LMS, MS Teams, để làm đúng hạn và không bỏ sót cập nhật sau từng buổi học | Sinh viên học 6 môn/kỳ | Mở và đối chiếu 3–4 nguồn tin mỗi ngày, 5–10 phút/ngày (≈ 35–70 phút/tuần); đã nộp muộn 1 báo cáo vì sót deadline |7. Lần trễ deadline cụ thể? Đã bấm giờ mở 3 nguồn chưa? (Huyền) |
+| 8 | Nguyễn Đức Huân | Khi xem báo cáo tiến độ của nhiều nhóm, GV muốn thấy ngay điểm khác so với tuần trước và chỗ đang vướng, để góp ý đúng trọng tâm | GVHD phụ trách 10 nhóm, các nhóm sinh viên | GV mất hơn 5 phút đầu mỗi nhóm (trong 10–15 phút) chỉ để hỏi lại "tuần này làm được gì" | Làm sao GV xác định được nhóm nào thực sự gặp khó khăn nếu chỉ dựa vào báo cáo tiến độ?(Duyên)|
+| 9 | Nguyễn Đức Huân | Khi sắp lịch họp nhóm, tôi muốn tìm khung giờ trống chung của 4–5 người có lịch khác nhau, để cả nhóm cùng tham gia | Người điều phối nhóm 4–5 sinh viên | Đối chiếu lịch trống qua ≥ 50 tin nhắn mỗi lần chốt; đã 2 lần phải lùi lịch |Nếu một thành viên liên tục bận vào các khung giờ chung, nhóm sẽ xử lý như thế nào?(Duyên) |
 | 10 | | | | | |
 | 11 | | | | | |
 | 12 | | | | | |
@@ -34,10 +34,10 @@
 ### 2.2. Cluster
 
 | Cluster | Các candidate | Pattern chung |
-|---|---|---|
-| A | | |
-| B | | |
-| C | | |
+| :------ | :------------ | :------------ |
+| A. Quản lý thông tin và kiến thức học tập | 2. Xem trước slide và liệt kê ý chính. <br> 5. Đọc README, RULES, RUBRIC.<br> 7. Tổng hợp deadline, lịch học và thông báo từ nhiều nguồn. | Phải tìm kiếm, đọc và tổng hợp thông tin từ nhiều tài liệu hoặc nền tảng, dễ mất thời gian và bỏ sót thông tin quan trọng. |
+| B. Phối hợp và quản lý công việc nhóm| 3. Thành viên không đọc tài liệu tham khảo trước buổi họp. <br> 4. Xác định nhiệm vụ, vai trò và tiêu chí hoàn thành LAB nhóm. <br>  9. Tìm khung giờ họp chung cho các thành viên. | Khó khăn trong việc thống nhất thông tin, phân công, trao đổi và phối hợp giữa các thành viên để hoàn thành công việc đúng hạn. |
+| C. Theo dõi và duy trì tiến độ| 1. Nhớ và viết Daily Standup trước 10h. <br> 6. Thành viên cập nhật tiến độ và khó khăn. <br> 8. Giảng viên xem báo cáo tiến độ của nhiều nhóm và xác định điểm khác biệt so với tuần trước. | Người thực hiện cần ghi nhận, theo dõi và báo cáo tiến độ thường xuyên. Việc tổng hợp thông tin chưa nhanh khiến người học hoặc người hướng dẫn mất thời gian và khó nhận diện vấn đề kịp thời. |
 
 ### 2.3. Opportunity Solution Tree rút gọn
 
@@ -45,30 +45,45 @@ Gốc là **1 outcome**. Nhánh là **opportunity** (nhu cầu, pain), không ph
 
 ```text
 OUTCOME: 
-├── Opportunity A: 
-├── Opportunity B: 
-└── Opportunity C: 
+Opportunity A: Khó khăn trong việc tiếp nhận và tổng hợp thông tin học tập Người học phải tìm kiếm, đọc và đối chiếu thông tin từ nhiều tài liệu, nền tảng khác nhau, dẫn đến mất thời gian và dễ bỏ sót thông tin quan trọng.
+Opportunity B: Khó khăn trong việc phối hợp và thống nhất công việc nhóm. Các thành viên chưa nắm rõ vai trò, nhiệm vụ, tài liệu và tiến độ của nhau. Việc trao đổi, phân chia công việc và sắp xếp lịch họp còn mất nhiều thời gian.
+Opportunity C: Khó khăn trong việc theo dõi và đánh giá tiến độ. Người học và người hướng dẫn phải thường xuyên ghi nhận, tổng hợp báo cáo tiến độ nhưng khó nhận biết kịp thời những vấn đề đang phát sinh.
 ```
 
-Những ý đã gạch bỏ vì là solution đội lốt opportunity:
+Những ý đã gạch bỏ vì là solution đội lốt opportunity: 
 
--
+- Tạo nhóm chat trên Zalo để trao đổi công việc và cập nhật tiến độ.
+
 
 ### 2.4. Chấm điểm shortlist (1–5)
 
 | Candidate | Actor rõ | Quy trình rõ | Pain có bằng chứng | Impact đo được | Vừa sức lab | So sánh được No AI/Rule/Workflow/Agent | Nhóm hiểu domain | Tổng |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
+| A. Quản lý thông tin và kiến thức học tập | 5 | 4 | 4 | 4 | 4 | 5 | 5 | 31 |
+| B. Phối hợp và quản lý công việc nhóm | 5 | 5 | 4 | 4 | 5 | 5 | 5 | 33 |
+| C. Theo dõi và duy trì tiến độ | 4 | 4 | 4 | 4 | 4 | 5 | 4 | 29 |
 
 **Candidate được chọn:**
 
+Cluster B – Phối hợp và quản lý công việc nhóm.
+
 **Vì sao chọn:**
+
+- Đây là vấn đề xuất hiện ở nhiều tình huống trong quá trình làm LAB nhóm.
+- Có nhiều đối tượng chịu ảnh hưởng như nhóm trưởng và các thành viên.
+- Quy trình làm việc có thể xác định rõ: nhận yêu cầu, phân chia nhiệm vụ, trao đổi, cập nhật tiến độ và tổng hợp kết quả.
+- Có thể đo lường hiệu quả thông qua thời gian điều phối, thời gian cập nhật tiến độ và số lần phải nhắc nhở thành viên.
+- Phù hợp để thử nghiệm và so sánh các hướng tiếp cận No AI, Rule, Workflow và Agent.
+- Các thành viên trong nhóm có trải nghiệm thực tế với vấn đề này.
 
 **Vì sao loại các candidate còn lại:**
 
+- Cluster A: Có vấn đề về tìm kiếm và tổng hợp thông tin nhưng phạm vi khá rộng, bao gồm nhiều loại tài liệu và nền tảng.
+- Cluster C: Có vấn đề về theo dõi tiến độ nhưng một số tình huống liên quan đến báo cáo và công việc của giảng viên, cần thêm thông tin để xác định phạm vi phù hợp.
+
 **Xử lý bất đồng (nếu có):**
+
+Nhóm thảo luận dựa trên các tiêu chí chấm điểm, mức độ ảnh hưởng, bằng chứng thực tế và khả năng triển khai trong phạm vi LAB. Nếu có bất đồng, các thành viên cần đưa ra dẫn chứng từ trải nghiệm hoặc dữ liệu thực tế để thống nhất lựa chọn.
 
 ---
 
@@ -78,22 +93,26 @@ Những ý đã gạch bỏ vì là solution đội lốt opportunity:
 
 | # | Giả định | Loại (Value / Usability / Feasibility / Viability) | Quan trọng (1–5) | Đã có bằng chứng (1–5) | Kiểm chứng trước? |
 |---:|---|---|---:|---:|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
-| 6 | | | | | |
+| 1 | Các thành viên thường gặp khó khăn khi xác định rõ nhiệm vụ và trách nhiệm của từng người trong nhóm. | Value | 5 | 3 | Có |
+| 2 | Nhóm trưởng mất nhiều thời gian để theo dõi tiến độ và nhắc nhở các thành viên. | Value | 5 | 3 | Có |
+| 3 | Thông tin công việc và kết quả thường bị phân tán trong nhiều cuộc trò chuyện. | Value | 4 | 3 | Có |
+| 4 | Các thành viên có thể chủ động cập nhật tiến độ nếu quy trình báo cáo đơn giản và rõ ràng. | Usability | 4 | 1 | Có |
+| 5 | Có thể xây dựng quy trình hỗ trợ phân công và theo dõi công việc bằng các công nghệ phù hợp trong phạm vi LAB. | Feasibility | 4 | 2 | Có |
+| 6 | Các nhóm sinh viên sẵn sàng sử dụng một phương pháp quản lý công việc chung nếu nó giúp tiết kiệm thời gian. | Viability | 4 | 1 | Có |
 
-*Điền 4–6 giả định; xóa dòng thừa.*
+*Lưu ý: Điểm bằng chứng hiện tại là đánh giá sơ bộ dựa trên các candidate đã thu thập, chưa thay thế kết quả phỏng vấn.*
 
-Giả định nhóm kiểm chứng trong buổi này:
+**Giả định nhóm kiểm chứng trong buổi này:**
+
+1. Nhóm trưởng thực sự mất nhiều thời gian để theo dõi và nhắc nhở tiến độ.
+2. Các thành viên gặp khó khăn khi nắm bắt nhiệm vụ và trạng thái công việc của nhau.
+3. Thông tin trao đổi trong nhóm chưa được tập trung và dễ bị bỏ sót.
 
 ### 3.2. Kiểm chứng
 
-Cách đã dùng: Phỏng vấn / Survey / Log, ticket, review
+Cách đã dùng: Phỏng vấn / Survey / Log, ticket, review.
 
-Interview snapshot (mỗi buổi phỏng vấn một bảng, hoặc đặt file trong `report/assets/cp4-interview-snapshot-N.md`):
+Interview snapshot:
 
 | Trường | Nội dung |
 |---|---|
@@ -108,17 +127,21 @@ Tổng hợp:
 
 | Nguồn | Số người / số mẫu | Tín hiệu xác nhận | Tín hiệu phản bác |
 |---|---:|---|---|
-| | | | |
+| Phỏng vấn nhóm trưởng | | | |
+| Phỏng vấn thành viên nhóm | | | |
+| Survey sinh viên | | | |
 
 **Nhóm đã sửa problem thế nào sau kiểm chứng:**
+
+Chưa có kết luận. Nhóm sẽ cập nhật sau khi phỏng vấn và tổng hợp phản hồi thực tế từ các thành viên từng tham gia làm LAB nhóm.
 
 ### 3.3. Research giải pháp đã có
 
 | Công cụ / case / pattern | Link | Giải bước nào trong quy trình? | Điểm mạnh | Khoảng trống / rủi ro | Bài học cho nhóm |
 |---|---|---|---|---|---|
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| ClickUp | https://clickup.com/ | Phân công nhiệm vụ và theo dõi tiến độ. | Quản lý công việc tập trung, trực quan. | Nhiều tính năng, cần thời gian làm quen. | Cần quy trình quản lý đơn giản, dễ sử dụng. |
+| Notion | https://www.notion.com/ | Lưu trữ tài liệu, phân công và theo dõi công việc. | Có thể quản lý tài liệu và công việc tại một nơi. | Có thể mất thời gian thiết lập ban đầu. | Cần kết hợp thông tin dự án và nhiệm vụ một cách có tổ chức. |
+| Google Sheets | https://sheets.google.com/ | Phân công nhiệm vụ, cập nhật tiến độ và tổng hợp kết quả. | Dễ sử dụng, nhiều thành viên có thể cùng chỉnh sửa. | Phụ thuộc vào việc cập nhật thủ công. | Cần giảm thao tác cập nhật và hạn chế bỏ sót thông tin. |
 
 ---
 
