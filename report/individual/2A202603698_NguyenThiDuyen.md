@@ -7,7 +7,7 @@
 ## 1. Thông tin học viên
 
 - Họ tên: Nguyễn Thị Duyên
-- MSSV:2A202603698
+- MSSV: 2A202603698
 - Email trường (không bắt buộc, repo có thể để public):
 - Tên nhóm: D2H
 - Link repo nhóm: https://github.com/duyen26912/K5-L3A-Day02-NhomD2H-DiscoveryProblemFraming
@@ -129,16 +129,17 @@ HIỆN TẠI — 20 phút/buổi LAB
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card | Đề xuất vấn đề tổng hợp công việc và người phụ trách sau buổi họp Build Phase. | Bổ sung một candidate thực tế xuất phát từ trải nghiệm làm việc nhóm. |
+| Phản biện bài của bạn khác | Đặt câu hỏi về cách giảng viên xác định nhóm thực sự gặp khó khăn và cách xử lý khi thành viên liên tục bận lịch họp chung. | Giúp làm rõ hơn actor, nguyên nhân và mức độ ảnh hưởng của vấn đề. |
+| Nhận phản biện | Nhận câu hỏi: Tại sao đã ghi chú trong cuộc họp nhưng vẫn mất 1 giờ tổng hợp? Làm sao biết đã đọc đủ các file hướng dẫn LAB? | Nhận ra cần làm rõ quy trình, nguyên nhân gây mất thời gian và bằng chứng cho pain point. |
+| Gom cluster / cây OST | Tham gia phân nhóm 9 candidate thành 3 cụm: Quản lý thông tin học tập; Phối hợp và quản lý công việc nhóm; Theo dõi và báo cáo tiến độ. | Giúp nhóm nhìn ra các vấn đề có điểm chung và dễ so sánh hơn. |
+| Chọn candidate problem | Tham gia đánh giá, so sánh các candidate theo actor, quy trình, pain, impact và tính khả thi. | Nhóm thống nhất chọn vấn đề thành viên không đọc tài liệu tham khảo trước buổi họp Build Phase. |
+| Kiểm chứng / research | Xác định những thông tin cần kiểm chứng như tần suất thành viên không đọc tài liệu, thời gian review lại và ảnh hưởng đến tiến độ nhóm. | Làm rõ những dữ liệu nhóm cần thu thập trước khi kết luận vấn đề. |
+| Quy trình nhóm | Xác định luồng vấn đề: chia sẻ tài liệu → thành viên xem trước → tham gia họp → trao đổi nội dung → review lại nếu chưa nắm được topic. | Giúp nhóm hình dung rõ quy trình hiện tại và vị trí phát sinh vấn đề. |
+| Problem Statement | Tham gia làm rõ đối tượng gặp vấn đề, tình huống xảy ra và hậu quả khi thành viên không đọc tài liệu trước. | Giúp Problem Statement tập trung vào pain point thay vì mô tả giải pháp. |
+| Mức can thiệp AI | Cân nhắc khả năng sử dụng AI hỗ trợ đọc, tóm tắt và làm rõ nội dung tài liệu trước cuộc họp. | Xác định AI là hướng hỗ trợ tiềm năng, cần so sánh với giải pháp không dùng AI. |
+| Quyết định | Tham gia thống nhất lựa chọn Candidate #3 sau khi so sánh và thảo luận trong nhóm. | Nhóm tập trung vào một vấn đề cụ thể để tiếp tục nghiên cứu và phát triển giải pháp. |
+
 
 ---
 
@@ -146,12 +147,12 @@ HIỆN TẠI — 20 phút/buổi LAB
 
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| CP1 Scan | | | | |
-| CP2 Problem Card | | | | |
-| CP4 Research | | | | |
-| CP5 Quy trình | | | | |
-| CP5–6 Problem Statement | | | | |
-| CP6 Mức can thiệp / quyết định | | | | |
+| CP1 Scan | Hỗ trợ phân tích và sắp xếp các vấn đề ban đầu. | Gợi ý cách diễn đạt vấn đề và nhận diện các pain point. | Một số gợi ý còn chung chung, chưa sát trải nghiệm thực tế. | Chọn lọc những vấn đề có thật trong quá trình học và làm việc nhóm. |
+| CP2 Problem Card | Hỗ trợ viết Job Story, xác định Actor, Bottleneck và Impact. | Giúp cấu trúc Problem Card rõ ràng, dễ theo dõi. | Có xu hướng đưa ra số liệu ước lượng khi chưa có dữ liệu kiểm chứng. | Giữ lại số liệu từ trải nghiệm thực tế và đánh dấu những thông tin cần kiểm chứng. |
+| CP4 Research | Gợi ý các câu hỏi và thông tin cần tìm hiểu thêm về vấn đề. | Hỗ trợ xác định những khía cạnh cần nghiên cứu. | Chưa cung cấp được bằng chứng thực tế nếu không có nguồn dữ liệu cụ thể. | Xác định các thông tin cần hỏi thành viên và thu thập từ trải nghiệm thực tế. |
+| CP5 Quy trình | Hỗ trợ mô tả các bước trong quy trình hiện tại. | Giúp hình dung luồng công việc và xác định vị trí có thể phát sinh vấn đề. | Quy trình AI đề xuất đôi khi chưa phản ánh đúng cách nhóm đang làm. | Điều chỉnh lại theo quy trình thực tế của nhóm. |
+| CP5–6 Problem Statement | Hỗ trợ viết và chỉnh sửa Problem Statement. | Giúp câu văn ngắn gọn, xác định rõ Actor, vấn đề và tác động. | Một số cách viết dễ chuyển sang mô tả giải pháp thay vì vấn đề. | Giữ trọng tâm vào việc thành viên không đọc tài liệu trước buổi họp và hậu quả phải review lại. |
+| CP6 Mức can thiệp / quyết định | Hỗ trợ so sánh các mức No AI, Rule, Workflow và Agent. | Giúp nhóm có thêm góc nhìn khi lựa chọn mức can thiệp phù hợp. | AI có xu hướng ưu tiên giải pháp có AI mà chưa chứng minh AI thực sự cần thiết. | Ưu tiên giải quyết đúng pain point, cân nhắc tính khả thi và chỉ sử dụng AI khi tạo ra giá trị rõ ràng. |
 
 ---
 
@@ -160,21 +161,36 @@ HIỆN TẠI — 20 phút/buổi LAB
 Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
+Tôi nhận ra mỗi người có những khó khăn khác nhau. Tôi học được cách xác định rõ người gặp vấn đề, nguyên nhân và ảnh hưởng thay vì chỉ tập trung vào giải pháp.
+
 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
+Có. Nhóm từng nghĩ đến việc dùng AI để tóm tắt tài liệu và nhắc nhở thành viên. Sau đó, nhóm quay lại tìm hiểu nguyên nhân vì sao thành viên không đọc tài liệu trước cuộc họp.
 
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
+Có. Tôi được hỏi tại sao đã ghi chú trong cuộc họp nhưng vẫn mất 1 giờ tổng hợp công việc. Câu hỏi này giúp tôi nhận ra cần làm rõ nguyên nhân và kiểm chứng thời gian thực tế.
 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
+Tôi nhận ra thành viên không đọc tài liệu có thể do nhiều nguyên nhân như quên, tài liệu khó hiểu hoặc chưa biết nội dung quan trọng. Vì vậy, cần tìm hiểu thêm trước khi kết luận.
 
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
+Khó nhất là xác định đúng người gặp vấn đề, nguyên nhân và tác động. Tôi cũng cần tránh đưa giải pháp vào quá sớm.
 
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
+Tôi sẽ thu thập thêm bằng chứng trước khi chọn vấn đề và đặt nhiều câu hỏi phản biện hơn về nguyên nhân, mức độ ảnh hưởng và tính cần thiết của AI.
+
 
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
 
+Problem là vấn đề nhóm muốn giải quyết. Quy trình giúp xác định vấn đề xuất hiện ở bước nào. Metric dùng để đo mức độ ảnh hưởng và hiệu quả. Boundary xác định phạm vi giải quyết. Tiếp theo, nhóm chọn mức can thiệp AI phù hợp. Cuối cùng, nhóm quyết định giải pháp dựa trên tính cần thiết và khả năng thực hiện.
+
 ---
+
 
 ## 7. Tài liệu tham khảo
 
--
+1. Tài liệu học tập Discovery & Problem Framing (CP1–CP7) – Tài liệu khóa học.
+2. GitHub Repository – https://github.com/duyen26912/K5-L3A-Day02-NhomD2H-DiscoveryProblemFraming
+3. Tài liệu hướng dẫn LAB: README, RULES, RUBRIC, SUBMISSION – Repository của khóa học. https://github.com/duyen26912/K5-L3A-Day02-NhomD2H-DiscoveryProblemFraming/blob/main/README.md
+4. Problem Cards và kết quả thảo luận, phân tích của nhóm.
+5. Kết quả phỏng vấn, khảo sát và nghiên cứu liên quan đến Candidate Problem
